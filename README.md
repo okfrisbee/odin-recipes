@@ -1,1 +1,1 @@
-# odin-recipes
+This project focuses on creating a website for different food recipes. Uses skills such as HTML and basic git commands.
