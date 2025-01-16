@@ -3,7 +3,10 @@ body {
 }
 
 h1 {
+    width: 400px;
     font-size: 48px;
+    background-color: white;
+    padding: 12px;
 }
 
 h1, h2, .recipes {
@@ -12,8 +15,9 @@ h1, h2, .recipes {
 }
 
 .recipes {
-    background-color: coral;
+    background-color: white;
     font-size: 24px;
+    width: 500px;
 }
 
 .ingredients, .steps, .desc{
